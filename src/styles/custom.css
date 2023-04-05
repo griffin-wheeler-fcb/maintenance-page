@@ -16,28 +16,12 @@ p {
     line-height: 32px;
 }
 
-.portal-links__list {
-    display: flex;
-}
-
-.portal-links__list__column {
-    flex: 50%;
-    padding-left: 12px;
-}
-
-.contact-list {
-    padding-left: 50px;
-}
-
 .sublist {
     margin-top: 12px;
     padding-left: 25px;
     list-style-type: none;
 }
 
-section {
-    position: relative;
-}
 body {
     padding: 100px;
 }
